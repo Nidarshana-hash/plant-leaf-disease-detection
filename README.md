@@ -60,7 +60,7 @@ python src/main.py
 ## 📥 Model Download
 
 Download the trained model from:
-👉 (Add your Google Drive link here)
+👉 (https://drive.google.com/file/d/1Fy7a9Wu8Jgy1qcGCj15-tO2UK3N0G2F0/view?usp=sharing)
 
 Place it inside:
 
