@@ -75,7 +75,7 @@ models/
 Dataset not included due to size. You can use:
 
 * PlantVillage Dataset (Kaggle)
-
+ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset 
 ---
 
 ## 📈 Results
